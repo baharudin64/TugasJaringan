@@ -8,7 +8,7 @@ Based on the figure above, the IP address of the client is 192.168.1.102, which 
 <br>
 <br>
 Video penjelasan: <br>
-[![q4-syn](./2024-12-04 18-37-06.mkv)](https://raw.githubusercontent.com/baharudin64/TugasJaringan/blob/main/UAS/video/2024-12-04%2018-37-06.mkv)
+(https://raw.githubusercontent.com/baharudin64/TugasJaringan/blob/main/UAS/video/2024-12-04%2018-37-06.mkv)
 
 2.	What does gaia.cs.umass.edu use the IP address and port number to receive the file. (Attach the screenshot of your Wireshark's display) 
 #### Answers:
