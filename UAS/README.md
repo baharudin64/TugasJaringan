@@ -8,7 +8,9 @@ Based on the figure above, the IP address of the client is 192.168.1.102, which 
 <br>
 <br>
 Video penjelasan: <br>
-(https://github.com/baharudin64/TugasJaringan/blob/e7a65013d58125c0b138d2cb27e93872c02a8559/UAS/video/2024-12-04%2018-37-06.mkv)
+https://github.com/user-attachments/assets/adec7705-b562-4337-8a22-2ce5ab9cabe3
+
+
 
 2.	What does gaia.cs.umass.edu use the IP address and port number to receive the file. (Attach the screenshot of your Wireshark's display) 
 #### Answers:
