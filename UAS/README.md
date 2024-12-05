@@ -8,6 +8,8 @@ Based on the figure above, the IP address of the client is 192.168.1.102, which 
 <br>
 <br>
 Video penjelasan: <br>
+
+
 https://github.com/user-attachments/assets/adec7705-b562-4337-8a22-2ce5ab9cabe3
 
 
